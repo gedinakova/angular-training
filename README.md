@@ -1,6 +1,6 @@
 # angular-training
 [![Build Status](https://travis-ci.org/gedinakova/angular-training.svg?branch=master)](https://travis-ci.org/gedinakova/angular-training)
-[![Build Status](https://dev.azure.com/gedinakova/Angular Training/_apis/build/status/gedinakova.angular-training?branchName=master)](https://dev.azure.com/gedinakova/Angular Training/_build/latest?definitionId=1&branchName=master)
+[![Build Status](https://dev.azure.com/gedinakova/Angular%20Training/_apis/build/status/gedinakova.angular-training?branchName=master)](https://dev.azure.com/gedinakova/Angular%20Training/_build/latest?definitionId=1&branchName=master)
 
 This project was generated with [Ignite UI CLI](https://github.com/IgniteUI/igniteui-cli) version 4.1.2.
 
